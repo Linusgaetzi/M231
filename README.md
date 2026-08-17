@@ -3,36 +3,17 @@
 ## Tag 1
 
 ### Was habe ich heute gemacht?
+* **NotebookLM:** Wir haben uns das Tool NotebookLM angeschaut und wie man es benutzt.
+* **Grundlagen Security:** Ich habe mir angeschaut, was MFA (Multi-Faktor-Authentifizierung) eigentlich ist und wo der Unterschied zwischen Authentifizierung und Autorisierung liegt.
+* **Transferaufgabe (Szenario kleine Firma):**
+    * **MFA-Empfehlung:** Ich würde Passwort und Badge nehmen. Jeder hat eh einen PC (für das Passwort) und einen Badge kann man jedem einfach geben. Das erfüllt dann zwei der drei Anforderungen für MFA (Wissen und Besitz).
+    * **Rechte für die Buchhaltung:** Die sollten nur so viele Rechte bekommen, dass sie die Finanzen sehen können. Ändern dürfen sie aber nichts (Prinzip der minimalen Rechte).
+    * **Problem bei zu vielen Rechten:** Wenn man das "Least-Privilege-Prinzip" ignoriert und ein Konto gehackt wird, hat der Angreifer sofort Zugriff auf alles. Er kann dann Daten klauen, löschen oder das ganze System manipulieren.
+* **Phishing:** Wir haben besprochen, was Phishing-Angriffe sind.
 
-Notebooklm kennengelernt.
-
-Was ist MFA?
-
-Authentifizierung vs. Autorisierung
-
-Transferaufgabe: Sie verwalten die IT-Infrastruktur einer kleinen Firma (20 Mitarbeitende, 3 Abteilungen: Verkauf, Buchhaltung, IT).
-
-  1. Welche MFA-Methode empfehlen Sie - und warum? Passwort und Badge, weil jeder ein PC hat für ein Passwort, ein Badge kann man jedem geben einfach mit eingeschränkten Rechten oder Vollrechtzwei und zwei der drei Anforderungen werden erfüllt für MFA.
-
-  2. Welche Zugriffsrechte würden Sie der Buchhaltung auf den Finanzserver geben? Nur soviel Rechte, damit sie die Finanzen anschauen können aber nichts ändern können.
-
-  3. Was passiert, wenn das Least-Privilege-Prinzip verletzt wird? Wenn das Prinzip verletzt wird, erhält ein Angreifer oder ein Schadprogramm bei der Kompromittierung eines Kontos sofort unbeschränkten Zugriff auf das gesamte System und kann ungehindert vertrauliche Daten stehlen, löschen oder manipulieren.
-
-Was ist Phishing? 
-
-
-
-
-  
-   
 ### Was habe ich heute gelernt?
-
-Authentifizierung: Nachweis der Identität 
-
-Autorisierung: Vergabe von Rechten und Berechtigungen
-
-MFA: mindestens zwei der drei Sachen haben für MFA (Wissen, Besitz und Biometrie)
-
-Was ist Phishing? Phishing bedeutet, dass Betrüger sich als vertrauenswürdige Personen oder Unternehmen ausgeben, um über gefälschte Nachrichten oder Websites Daten zu stehlen; der Begriff kommt von „fishing“ (Angeln). Spearphishing ist eine gezielte Form davon, bei der Nachrichten speziell auf ein Opfer zugeschnitten werden – bekannte Fälle sind Angriffe auf Behörden und Unternehmen, z. B. dokumentiert von CISA.
+* **Der Unterschied:** Authentifizierung ist nur der Beweis, wer ich bin (Identität). Autorisierung bestimmt dann, was ich auf dem System eigentlich machen darf (Berechtigungen).
+* **MFA-Faktoren:** Für eine echte Multi-Faktor-Authentifizierung braucht man mindestens zwei von drei Dingen: Wissen (z. B. Passwort), Besitz (z. B. Badge) oder Biometrie (z. B. Fingerabdruck).
+* **Phishing:** Ich weiß jetzt, was der Unterschied zwischen normalem Phishing und Spearphishing (gezielte Angriffe) ist. Der Angriff auf Ubiquiti Networks im Jahr 2015. Da wurden Mitarbeiter so getäuscht, dass sie insgesamt 46,7 Millionen US-Dollar überwiesen haben.
 
 ### Was hat funktioniert?
