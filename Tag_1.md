@@ -21,7 +21,7 @@
 * **MFA-Faktoren:** Für eine echte Multi-Faktor-Authentifizierung braucht man mindestens zwei von drei Dingen: Wissen (z. B. Passwort), Besitz (z. B. Badge) oder Biometrie (z. B. Fingerabdruck).
 * **Phishing:** Ich weiß jetzt, was der Unterschied zwischen normalem Phishing und Spearphishing (gezielte Angriffe) ist. Der Angriff auf Ubiquiti Networks im Jahr 2015. Da wurden Mitarbeiter so getäuscht, dass sie insgesamt 46,7 Millionen US-Dollar überwiesen haben.
 
-### Was hat funktioniert?
+### Was hat gut funktioniert?
 * Die Arbeit mit **NotebookLM** hat gut funktioniert, da ich das Tool direkt kennenlernen und ausprobieren konnte.
 * Die **Security-Grundlagen** konnte ich gut nachvollziehen und auf das Szenario übertragen.
 * Durch das **Phishing-Beispiel** konnte ich besser verstehen, wie solche Angriffe in der Praxis funktionieren.
@@ -35,7 +35,9 @@
 
 ## Was haben wir heute gemacht?
 * Repetition Tag 1
-* Spaghetti Mermaid:
+<details>
+       <summary>Spaghetti Flowchart</summary>
+
 ```mermaid
 flowchart TD
 
@@ -77,7 +79,10 @@ flowchart TD
     class H,I,J,K,L,M,N sauce;
     class O,P,Q finish;
 ```
+</details>
 
 * Gruppenpuzzle: Datenschutzrecht im Überblick,  Expertengruppe D
+
+## Was habe ich gelernt?
 
 </details>
