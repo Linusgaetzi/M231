@@ -2,7 +2,7 @@
 
 <details>
    <summary>
-      Tag 1
+      Tag 1  
    </summary>
 
 ## Tag 1
