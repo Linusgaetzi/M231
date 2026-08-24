@@ -22,7 +22,9 @@
 * **Phishing:** Ich weiß jetzt, was der Unterschied zwischen normalem Phishing und Spearphishing (gezielte Angriffe) ist. Der Angriff auf Ubiquiti Networks im Jahr 2015. Da wurden Mitarbeiter so getäuscht, dass sie insgesamt 46,7 Millionen US-Dollar überwiesen haben.
 
 ### Was hat funktioniert?
-* Heute hat alles sehr gut funktioniert.
+* Die Arbeit mit **NotebookLM** hat gut funktioniert, da ich das Tool direkt kennenlernen und ausprobieren konnte.
+* Die **Security-Grundlagen** konnte ich gut nachvollziehen und auf das Szenario übertragen.
+* Durch das **Phishing-Beispiel** konnte ich besser verstehen, wie solche Angriffe in der Praxis funktionieren.
 
 </details>
 
