@@ -1,5 +1,10 @@
 # Lernjournal
 
+<details>
+   <summary>
+      Block: Tag 1
+   </summary>
+
 ## Tag 1
 
 ### Was habe ich heute gemacht?
@@ -17,4 +22,6 @@
 * **Phishing:** Ich weiß jetzt, was der Unterschied zwischen normalem Phishing und Spearphishing (gezielte Angriffe) ist. Der Angriff auf Ubiquiti Networks im Jahr 2015. Da wurden Mitarbeiter so getäuscht, dass sie insgesamt 46,7 Millionen US-Dollar überwiesen haben.
 
 ### Was hat funktioniert?
-* Heute hat alles sehr gut funktioniert. 
+* Heute hat alles sehr gut funktioniert.
+
+</details>
