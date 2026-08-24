@@ -2,7 +2,7 @@
 ```mermaid
 flowchart TD
 
-    A["🍝 Spaghetti mit Tomatensoße"]
+    A["Spaghetti mit Tomatensoße"]
 
     A --> B["1. Wasser aufsetzen"]
     B --> C["Salz ins kochende Wasser"]
@@ -28,7 +28,7 @@ flowchart TD
 
     O --> P["Spaghetti mit Soße vermengen"]
     P --> Q["Mit Parmesan und Basilikum servieren"]
-    Q --> R["🍝 Guten Appetit!"]
+    Q --> R["Guten Appetit!"]
 
     classDef start fill:#fff7ed,stroke:#f97316,stroke-width:3px,color:#171717;
     classDef cooking fill:#fff7ed,stroke:#fb923c,stroke-width:2px,color:#171717;
