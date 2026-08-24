@@ -2,31 +2,31 @@
 ```mermaid
 flowchart TD
 
-    A["Spaghetti mit Tomatensoße"]
+    A["Spaghetti mit Tomatensosse"]
 
     A --> B["1. Wasser aufsetzen"]
     B --> C["Salz ins kochende Wasser"]
     C --> D["Spaghetti hineingeben"]
 
-    D --> E{"Sind die Nudeln al dente?"}
+    D --> E{"Sind die Spaghetti al dente?"}
 
-    E -- "Nein" --> F["Noch 1–2 Minuten kochen"]
+    E -- "Nein" --> F["Noch 30 - 60 Sekunden kochen"]
     F --> E
 
-    E -- "Ja" --> G["Spaghetti abgießen"]
+    E -- "Ja" --> G["Spaghetti abgiessen"]
 
-    A --> H["2. Tomatensoße vorbereiten"]
+    A --> H["2. Tomatensosse vorbereiten"]
     H --> I["Zwiebel und Knoblauch hacken"]
     I --> J["Olivenöl erhitzen"]
     J --> K["Zwiebel und Knoblauch anbraten"]
-    K --> L["Passierte Tomaten hinzufügen"]
+    K --> L["Passata hinzufügen"]
     L --> M["Mit Salz, Pfeffer und Oregano würzen"]
     M --> N["10–15 Minuten köcheln lassen"]
 
     N --> O["3. Alles kombinieren"]
     G --> O
 
-    O --> P["Spaghetti mit Soße vermengen"]
+    O --> P["Spaghetti mit Sosse mischen"]
     P --> Q["Mit Parmesan und Basilikum servieren"]
     Q --> R["Guten Appetit!"]
 
