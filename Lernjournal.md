@@ -149,8 +149,6 @@ flowchart TD
 
 </details>
 
-### Merksatz
-> Personendaten **rechtmässig, sparsam, zweckgebunden, korrekt, sicher und transparent** bearbeiten.
 ---
 ### Was hat gut funktioniert?
 * Die Präsentationen über das Datenschutzrecht hat in unserer Gruppe sehr gut funktioniert. Allgemein dass schreiben hier ins Repo macht mir sehr Spass und man lernt dabei auch sehr viel.
