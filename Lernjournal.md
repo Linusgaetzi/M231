@@ -304,6 +304,9 @@ Dieses Thema fand ich besonders interessant, weil ich dabei einen direkten Bezug
 
 Ich habe dadurch auch verstanden, warum es wichtig ist, seine eigenen Datenschutzrechte zu kennen.
 
+[Beispiels Brief](Auskunftsbegehren_BeispielsBrief.pdf)
+
+
 ---
 
 ## Online-Anonymität
