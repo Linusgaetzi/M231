@@ -1,7 +1,13 @@
-# Zusammenfassung: Modul M231 – Datenschutz und Datensicherheit
+# Zusammenfassung: Modul M231
 
-### Hauptthema
-Das zentrale Thema dieses Journals ist das **Anwenden von Datenschutz und Datensicherheit** im beruflichen Umfeld. Der Fokus liegt dabei auf der gesetzeskonformen Bearbeitung von Personendaten (gemäss **revDSG** und **DSGVO**) sowie der Sicherstellung der Informationssicherheit durch technische und organisatorische Massnahmen, basierend auf der **CIA-Triade** (Vertraulichkeit, Integrität, Verfügbarkeit).
+### Hauptthema: Ganzheitliche IT-Sicherheit und Infrastruktur
+Das zentrale Thema dieses Journals ist die Verknüpfung von **rechtlichen Datenschutzvorgaben** und **technischer Informationssicherheit**. 
+
+1.  **Datenschutz & Recht:** 
+    Die gesetzeskonforme Bearbeitung von Personendaten gemäss dem schweizerischen **revDSG** und der europäischen **DSGVO**. Hierbei steht der Schutz der Persönlichkeitsrechte durch Grundsätze wie Verhältnismässigkeit und Zweckbindung im Vordergrund.
+
+2.  **Informationssicherheit:** 
+    Die praktische Umsetzung der **CIA-Triade** (Vertraulichkeit, Integrität, Verfügbarkeit). Dies umfasst technisches Identitätsmanagement durch          **MFA**, den Schutz vor Social Engineering sowie die Wahl korrekter Lizenzmodelle (z. B. Creative Commons).
 
 ### Was ich im Journal gemacht habe
 In diesem Journal habe ich meinen Lernfortschritt der ersten fünf Kurstage dokumentiert:
