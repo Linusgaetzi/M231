@@ -8,6 +8,5 @@ In diesem Journal habe ich meinen Lernfortschritt der ersten fünf Kurstage doku
 
 *   **Dokumentation:** Ich habe ein persönliches Portfolio in einem **Git-Repository** aufgebaut und die Inhalte mittels **Markdown** strukturiert.
 *   **Wissenssicherung:** Ich habe Kernkonzepte zu Identitätsmanagement (MFA), Datenschutzrecht, Online-Anonymität und Lizenzmodellen zusammengefasst.
-*   **Experten-Repetition:** An Tag 5 haben wir in einer Gruppenaufgabe die Themen der ersten vier Tage durch Experten-Präsentationen repetiert, um das Wissen vor der Prüfung zu festigen.
 *   **Reflexion:** Ich habe regelmässige Reflexionen über mein Verständnis und meine Arbeitsweise verfasst, was ein zentraler Bestandteil der Leistungsbeurteilung (LB3) ist.
 *   **Prüfungsvorbereitung:** Das Journal diente als wesentliche Grundlage für die Vorbereitung auf die Theorieprüfung (LB1).
