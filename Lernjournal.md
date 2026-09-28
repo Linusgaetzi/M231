@@ -22,9 +22,9 @@
 * **Phishing:** Ich weiss jetzt, was der Unterschied zwischen normalem Phishing und Spearphishing (gezielte Angriffe) ist. Der Angriff auf Ubiquiti Networks im Jahr 2015. Da wurden Mitarbeiter so getäuscht, dass sie insgesamt 46,7 Millionen US-Dollar überwiesen haben.
 ---
 ### Was hat gut funktioniert?
-* Die Arbeit mit **NotebookLM** hat gut funktioniert, da ich das Tool direkt kennenlernen und ausprobieren konnte.
-* Die **Security-Grundlagen** konnte ich gut nachvollziehen und auf das Szenario übertragen.
-* Durch das **Phishing-Beispiel** konnte ich besser verstehen, wie solche Angriffe in der Praxis funktionieren.
+* Die Arbeit mit NotebookLM hat gut funktioniert, da ich das Tool direkt kennenlernen und ausprobieren konnte.
+* Die Security-Grundlagen konnte ich gut nachvollziehen und auf das Szenario übertragen.
+* Durch das Phishing-Beispiel konnte ich besser verstehen, wie solche Angriffe in der Praxis funktionieren.
 ---
 ### Was würde ich anders machen und was nehme ich mir fürs nächste mal vor?
 * Mehr Notizen während Unterricht machen und ich nehme mir fürs nächste mal vor alles mir gut zu merken, denn ich war heute etwas müde und deshalb konnte ich mich nicht zu 100% fokussieren.
@@ -106,7 +106,7 @@ flowchart TD
 - Transparenz
 
 ### Besonders schützenswerte Daten
-z. B. **Gesundheit, Religion, Politik, Strafdaten, biometrische & genetische Daten**.
+z. B. Gesundheit, Religion, Politik, Strafdaten, biometrische & genetische Daten.
 
 → Es gelten strengere Schutzanforderungen.
 
@@ -167,21 +167,21 @@ flowchart TD
 
 ## Was habe ich gemacht?
 
-Heute habe ich mich mit verschiedenen Themen rund um **Informationssicherheit, Datenschutz und Online-Anonymität** beschäftigt.
+Heute habe ich mich mit verschiedenen Themen rund um Informationssicherheit, Datenschutz und Online-Anonymität beschäftigt.
 
-Zuerst haben wir die **CIA-Triade** kennengelernt. Dabei habe ich die drei grundlegenden Schutzziele der Informationssicherheit angeschaut:
+Zuerst haben wir die CIA-Triade kennengelernt. Dabei habe ich die drei grundlegenden Schutzziele der Informationssicherheit angeschaut:
 
 - **Confidentiality (Vertraulichkeit)**
 - **Integrity (Integrität)**
 - **Availability (Verfügbarkeit)**
 
-Danach haben wir den Unterschied zwischen **Datenschutz und Datensicherheit** behandelt. Anschliessend haben wir anhand von verschiedenen Beispielen geprüft, ob eine Situation den Datenschutz, die Datensicherheit oder beide Bereiche betrifft.
+Danach haben wir den Unterschied zwischen Datenschutz und Datensicherheit behandelt. Anschliessend haben wir anhand von verschiedenen Beispielen geprüft, ob eine Situation den Datenschutz, die Datensicherheit oder beide Bereiche betrifft.
 
 Danach haben wir konkrete Szenarien aus der Praxis analysiert. Dabei ging es unter anderem um eine Arztpraxis, einen Online-Shop und eine Schulverwaltung.
 
-Zusätzlich habe ich mich mit dem Thema **Online-Anonymität** beschäftigt. Dabei haben wir uns angeschaut, welche Datenspuren beim Surfen entstehen und wie Technologien wie VPN und Tor funktionieren.
+Zusätzlich habe ich mich mit dem Thema Online-Anonymität beschäftigt. Dabei haben wir uns angeschaut, welche Datenspuren beim Surfen entstehen und wie Technologien wie VPN und Tor funktionieren.
 
-Zum Schluss haben wir uns mit **Datenschutz-Tools**, den Grenzen von Online-Anonymität und der Verwendung von **KI für Recherche und Faktenchecks** beschäftigt.
+Zum Schluss haben wir uns mit Datenschutz-Tools, den Grenzen von Online-Anonymität und der Verwendung von KI für Recherche und Faktenchecks beschäftigt.
 
 ---
 
@@ -213,7 +213,7 @@ flowchart TD
 | **Integrity** | Daten sollen korrekt und unverändert sein. | Eine Rechnung wird unbemerkt verändert. |
 | **Availability** | Daten und Systeme müssen bei Bedarf verfügbar sein. | Ein Server ist nach einem Angriff nicht erreichbar. |
 
-Ich habe verstanden, dass die CIA-Triade beschreibt, **was technisch geschützt werden soll**.
+Ich habe verstanden, dass die CIA-Triade beschreibt, was technisch geschützt werden soll.
 
 Für mich ist besonders wichtig, dass die drei Ziele zusammengehören. Ein System kann beispielsweise vertraulich und korrekt sein, bringt aber trotzdem wenig, wenn die Daten nicht verfügbar sind.
 
@@ -221,7 +221,7 @@ Für mich ist besonders wichtig, dass die drei Ziele zusammengehören. Ein Syste
 
 ## Datenschutz und Datensicherheit
 
-Ein weiterer wichtiger Punkt des Tages war die Unterscheidung zwischen **Datenschutz und Datensicherheit**.
+Ein weiterer wichtiger Punkt des Tages war die Unterscheidung zwischen Datenschutz und Datensicherheit.
 
 Ich habe vorher teilweise beide Begriffe gleichgesetzt. Heute wurde mir aber klar, dass sie zwar eng zusammenhängen, aber nicht dasselbe bedeuten.
 
@@ -242,7 +242,7 @@ flowchart LR
 | **Beispiel** | Personendaten nicht unerlaubt weitergeben | Verschlüsselung, Backups und Zugriffsschutz |
 | **Schwerpunkt** | Personen und ihre Rechte | Daten, Systeme und Infrastruktur |
 
-Ich habe daraus mitgenommen, dass **Datensicherheit eine wichtige Voraussetzung für Datenschutz ist**.
+Ich habe daraus mitgenommen, dass Datensicherheit eine wichtige Voraussetzung für Datenschutz ist.
 
 Wenn ein Unternehmen seine Systeme nicht ausreichend schützt, können persönliche Daten verloren gehen oder in falsche Hände geraten.
 
@@ -283,9 +283,9 @@ Wenn beispielsweise eine Kundendatenbank gehackt wird, kann gleichzeitig:
 
 ## Auskunftsbegehren
 
-Ein weiteres Thema war das **Auskunftsbegehren**.
+Ein weiteres Thema war das Auskunftsbegehren.
 
-Ich habe gelernt, dass ich grundsätzlich von einem Unternehmen Auskunft darüber verlangen kann, **welche Personendaten über mich bearbeitet werden**.
+Ich habe gelernt, dass ich grundsätzlich von einem Unternehmen Auskunft darüber verlangen kann, welche Personendaten über mich bearbeitet werden.
 
 Dabei gehören unter anderem Informationen über:
 
@@ -309,7 +309,7 @@ Ich habe dadurch auch verstanden, warum es wichtig ist, seine eigenen Datenschut
 
 ## Online-Anonymität
 
-Danach haben wir uns mit der Frage beschäftigt, **welche Informationen ich beim Surfen im Internet hinterlasse**.
+Danach haben wir uns mit der Frage beschäftigt, welche Informationen ich beim Surfen im Internet hinterlasse.
 
 Ich habe gelernt, dass beim normalen Surfen verschiedene Datenspuren entstehen können.
 
@@ -329,7 +329,7 @@ Auch wenn ich keine persönlichen Informationen direkt eingebe, können durch te
 
 ## Wie funktioniert ein VPN?
 
-Ein VPN steht für **Virtual Private Network**.
+Ein VPN steht für Virtual Private Network.
 
 Dabei wird der Datenverkehr zwischen meinem Gerät und dem VPN-Server über eine verschlüsselte Verbindung übertragen.
 
@@ -350,7 +350,7 @@ sequenceDiagram
     Note over U,I: Ohne VPN kann die echte IP-Adresse sichtbar sein
 ~~~
 
-Ich habe dabei gelernt, dass ein VPN **keine vollständige Anonymität garantiert**.
+Ich habe dabei gelernt, dass ein VPN keine vollständige Anonymität garantiert.
 
 Der VPN-Anbieter selbst kann grundsätzlich sehen, dass Datenverkehr über seinen Server läuft und je nach technischer Umsetzung auch Informationen über den Datenverkehr erhalten.
 
@@ -362,7 +362,7 @@ Ein VPN schützt also nicht automatisch vor allen Arten von Tracking.
 
 ## Wie funktioniert Tor?
 
-Auch das **Tor-Netzwerk** haben wir angeschaut.
+Auch das Tor-Netzwerk haben wir angeschaut.
 
 Tor leitet meinen Datenverkehr über mehrere zufällig ausgewählte Knoten weiter. Dabei kennt nicht jeder einzelne Knoten den kompletten Weg.
 
@@ -389,7 +389,7 @@ Ich habe gelernt, dass Tor den Datenverkehr stärker anonymisieren kann als eine
 
 Trotzdem bedeutet Tor nicht automatisch vollständige Anonymität.
 
-Ein wichtiger Punkt ist **HTTPS**. Wenn ich eine unverschlüsselte Verbindung verwende, kann der Exit-Node unter Umständen den Datenverkehr sehen.
+Ein wichtiger Punkt ist HTTPS. Wenn ich eine unverschlüsselte Verbindung verwende, kann der Exit-Node unter Umständen den Datenverkehr sehen.
 
 Deshalb sollte ich auch bei der Verwendung von Tor auf HTTPS achten.
 
@@ -398,7 +398,7 @@ Deshalb sollte ich auch bei der Verwendung von Tor auf HTTPS achten.
 
 ## Grenzen der Online-Anonymität
 
-Ein wichtiger Punkt für mich waren die **Grenzen der Anonymität**.
+Ein wichtiger Punkt für mich waren die Grenzen der Anonymität
 
 Ich habe gelernt, dass vollständige Anonymität im Internet nur sehr schwer erreichbar ist.
 
@@ -420,45 +420,27 @@ Wenn ich beispielsweise anonym surfe und mich anschliessend mit meinem persönli
 
 ## KI und Faktencheck
 
-Zum Schluss haben wir uns mit der Verwendung von **KI bei rechtlichen Themen** beschäftigt.
+Zum Schluss haben wir uns mit der Verwendung von KI bei rechtlichen Themen beschäftigt.
 
-Ich habe gelernt, dass KI-Antworten zwar sehr überzeugend klingen können, aber trotzdem **inhaltlich falsch** sein können.
+Ich habe gelernt, dass KI-Antworten zwar sehr überzeugend klingen können, aber trotzdem inhaltlich falsch sein können.
 
 Gerade bei rechtlichen Fragen ist das problematisch.
 
 Deshalb habe ich für mich folgende Regel mitgenommen:
 
-Bei wichtigen Aussagen muss ich die Informationen gegen eine **offizielle Quelle** prüfen.
+Bei wichtigen Aussagen muss ich die Informationen gegen eine offizielle Quelle prüfen.
 
-Bei Datenschutzthemen sollte ich beispielsweise direkt im Gesetz oder auf offiziellen Seiten wie der Website des **EDÖB** nachschauen.
-
----
-
-## Warum ist ein Faktencheck wichtig?
-
-Ich habe verstanden, dass bereits eine kleine falsche Information grosse Auswirkungen haben kann.
-
-Wenn eine KI beispielsweise eine falsche gesetzliche Frist nennt, könnte ein Unternehmen im Berufsalltag eine wichtige Frist verpassen.
-
-Deshalb sollte ich bei rechtlichen Themen immer überprüfen:
-
-- Stimmt die genannte Frist?
-- Ist der genannte Gesetzesartikel korrekt?
-- Ist die zuständige Stelle richtig?
-- Gilt die Regelung in der Schweiz oder in einem anderen Land?
-- Ist die Information noch aktuell?
-
-Diese Denkweise möchte ich auch bei anderen Themen anwenden.
+Bei Datenschutzthemen sollte ich beispielsweise direkt im Gesetz oder auf offiziellen Seiten wie der Website des EDÖB nachschauen.
 
 ---
 
 ## Was hat gut funktioniert?
 
-Heute hat für mich vor allem die Kombination aus **Theorie und praktischen Beispielen** gut funktioniert.
+Heute hat für mich vor allem die Kombination aus Theorie und praktischen Beispielen gut funktioniert.
 
 Die CIA-Triade konnte ich durch die verschiedenen Beispiele besser verstehen. Durch die konkreten Situationen wurde mir klar, was Vertraulichkeit, Integrität und Verfügbarkeit in der Praxis bedeuten.
 
-Auch die Gegenüberstellung von **Datenschutz und Datensicherheit** hat mir geholfen. Vorher habe ich die beiden Begriffe teilweise vermischt. Durch die Beispiele konnte ich den Unterschied deutlich besser erkennen.
+Auch die Gegenüberstellung von Datenschutz und Datensicherheit hat mir geholfen. Vorher habe ich die beiden Begriffe teilweise vermischt. Durch die Beispiele konnte ich den Unterschied deutlich besser erkennen.
 
 Das Thema Online-Anonymität fand ich besonders interessant, weil es einen direkten Bezug zu meinem eigenen Alltag hat. Dadurch konnte ich besser verstehen, welche Informationen ich beim normalen Surfen hinterlasse.
 
@@ -468,27 +450,27 @@ Auch das Thema KI fand ich hilfreich, weil ich KI selbst als Werkzeug verwenden 
 
 ## Was würde ich anders machen?
 
-Ich würde beim nächsten Mal versuchen, mich bei den Aufgaben noch genauer mit den **Begründungen** auseinanderzusetzen.
+Ich würde beim nächsten Mal versuchen, mich bei den Aufgaben noch genauer mit den Begründungen auseinanderzusetzen.
 
 ---
 
 ## Was nehme ich mir vor?
 
-Bei meinen Aufgaben möchte ich nicht nur eine Lösung finden, sondern auch verstehen, **warum diese Lösung richtig ist**.
+Bei meinen Aufgaben möchte ich nicht nur eine Lösung finden, sondern auch verstehen, warum diese Lösung richtig ist.
 
 Für mein Repository nehme ich mir weiterhin vor, meine Arbeit regelmässig zu dokumentieren und nicht alles erst am Ende nachzutragen.
 
-Ausserdem werde ich bei rechtlichen oder wichtigen fachlichen Aussagen aus KI-Antworten in Zukunft stärker darauf achten, diese mit einer **offiziellen Quelle zu überprüfen**.
+Ausserdem werde ich bei rechtlichen oder wichtigen fachlichen Aussagen aus KI-Antworten in Zukunft stärker darauf achten, diese mit einer offiziellen Quelle zu überprüfen.
 
 ---
 
-# Persönliche Reflexion
+# Reflexion
 
 Heute habe ich gemerkt, dass Informationssicherheit aus mehreren Bereichen besteht, die miteinander verbunden sind.
 
 Am Anfang dachte ich bei Datenschutz vor allem daran, dass persönliche Daten nicht weitergegeben werden dürfen. Durch den heutigen Unterricht habe ich aber verstanden, dass es viel mehr Aspekte gibt.
 
-Ich muss mich nicht nur fragen, **wer auf Daten zugreifen darf**, sondern auch:
+Ich muss mich nicht nur fragen, wer auf Daten zugreifen darf, sondern auch:
 
 > Sind die Daten korrekt?
 
@@ -502,7 +484,7 @@ Ich muss mich nicht nur fragen, **wer auf Daten zugreifen darf**, sondern auch:
 
 Diese Fragen helfen mir, das Thema umfassender zu betrachten.
 
-Besonders die Unterscheidung zwischen Datenschutz und Datensicherheit nehme ich aus dem heutigen Tag mit. Ich kann jetzt besser erkennen, dass Datenschutz stärker die **Rechte und den Schutz von Personen** betrifft, während Datensicherheit stärker auf den **technischen und organisatorischen Schutz von Daten und Systemen** ausgerichtet ist.
+Besonders die Unterscheidung zwischen Datenschutz und Datensicherheit nehme ich aus dem heutigen Tag mit. Ich kann jetzt besser erkennen, dass Datenschutz stärker die Rechte und den Schutz von Personen betrifft, während Datensicherheit stärker auf den technischen und organisatorischen Schutz von Daten und Systemen ausgerichtet ist.
 
 ---
 
@@ -624,14 +606,6 @@ Dazu gehören zum Beispiel:
 
 Ein einzelnes Merkmal ist meistens nicht eindeutig. Die Kombination vieler Merkmale kann jedoch dazu führen, dass ein Browser sehr genau wiedererkannt werden kann.
 
-## Was habe ich daraus gelernt?
-
-Ich habe vorher unterschätzt, wie viele Informationen mein Browser automatisch über mich preisgibt.
-
-Tracking funktioniert nicht nur über Cookies. Selbst wenn Cookies blockiert werden, können Webseiten andere Methoden wie Fingerprinting verwenden.
-
-Das zeigt mir, dass Datenschutz im Internet komplexer ist, als einfach nur Cookies zu akzeptieren oder abzulehnen.
-
 ---
 
 # 3. Eigenen Browser-Fingerprint untersuchen
@@ -708,20 +682,6 @@ Werbung wird so gestaltet, dass sie wie ein normales Suchergebnis oder Inhalt au
 
 Ein kostenloses Angebot wird automatisch kostenpflichtig, wenn der Nutzer nicht rechtzeitig kündigt.
 
-## Meine wichtigste Erkenntnis
-
-Ich habe gelernt, dass gutes Design nicht immer nutzerfreundlich sein muss.
-
-Ein professionell aussehendes Interface kann trotzdem bewusst manipulativ gestaltet sein.
-
-In Zukunft möchte ich besonders auf folgende Dinge achten:
-
-- Sind die Buttons gleich sichtbar?
-- Ist „Ablehnen“ genauso einfach wie „Akzeptieren“?
-- Werden Kosten klar angezeigt?
-- Sind Optionen bereits vorausgewählt?
-- Werde ich künstlich unter Zeitdruck gesetzt?
-
 ---
 
 # 5. KI zur Analyse von Dark Patterns
@@ -756,7 +716,7 @@ Die KI kann zum Beispiel:
 
 ---
 
-# Gesamtreflexion
+# Reflexion
 
 Heute habe ich viel darüber gelernt, wie Technologie, Datenschutz und Benutzeroberflächen miteinander verbunden sind.
 
@@ -771,12 +731,6 @@ Die wichtigsten Erkenntnisse des Tages sind für mich:
 5. KI kann bei Analysen helfen, muss aber immer kritisch überprüft werden.
 
 ---
-
-# Persönliches Fazit
-
-Der heutige Tag hat mir gezeigt, dass digitale Kompetenz nicht nur bedeutet, Programme bedienen zu können. Es ist genauso wichtig zu verstehen, was im Hintergrund passiert und wie Unternehmen oder Systeme versuchen können, mein Verhalten zu beeinflussen.
-
-Ich möchte in Zukunft bewusster mit Datenschutz, Lizenzen und digitalen Angeboten umgehen und Informationen nicht einfach ungeprüft akzeptieren – auch nicht, wenn sie von einer KI stammen.
 </details>
 
 <details>
@@ -785,18 +739,18 @@ Ich möchte in Zukunft bewusster mit Datenschutz, Lizenzen und digitalen Angebot
    </summary>
 
 ## Was haben wir heute gemacht?
-Der Fokus des heutigen Tages lag ganz auf der **Vorbereitung und Durchführung der ersten Theorieprüfung (LB1)** .
+Der Fokus des heutigen Tages lag ganz auf der Vorbereitung und Durchführung der ersten Prüfung LB1.
 
 ### Experten-Repetition (Gruppenaufgabe)
 Anstatt einer klassischen Frontal-Repetition haben wir eine Gruppenaufgabe durchgeführt. Dabei gab es für jeden der vergangenen vier Tage einen "Themen-Experten", der die Kernpunkte kurz präsentiert hat:
 
-*   **Experte Tag 1:** Fokus auf **Authentifizierung vs. Autorisierung** (Wer bist du? vs. Was darfst du?), die Notwendigkeit von **MFA** (mindestens zwei verschiedene Faktorenkategorien) und Schutzmassnahmen gegen **Social Engineering** .
-*   **Experte Tag 2:** Vertiefung des **Datenschutzrechts**. Wir haben die Unterschiede zwischen dem Schweizer **revDSG** und der EU-**DSGVO** (Marktortprinzip) sowie die Meldepflichten bei Datenpannen (72 Stunden an den EDÖB) repetiert.
-*   **Experte Tag 3:** Erklärung der **CIA-Triade** (Vertraulichkeit, Integrität, Verfügbarkeit) und die Abgrenzung zwischen Datensicherheit (technisch) und Datenschutz (rechtlich). Zudem wurden Anonymisierungstools wie **VPN und Tor** besprochen.
-*   **Experte Tag 4:** Zusammenfassung digitaler Rechte, insbesondere **Lizenzmodelle** (Open Source vs. Creative Commons) sowie der Schutz vor Tracking-Methoden wie **Fingerprinting** und manipulativen **Dark Patterns**.
+*   **Experte Tag 1:** Fokus auf Authentifizierung vs. Autorisierung (Wer bist du? vs. Was darfst du?), die Notwendigkeit von MFA (mindestens zwei verschiedene Faktorenkategorien) und Schutzmassnahmen gegen Social Engineering.
+*   **Experte Tag 2:** Vertiefung des Datenschutzrechts. Wir haben die Unterschiede zwischen dem Schweizer revDSG und der EU-DSGVO (Marktortprinzip) sowie die Meldepflichten bei Datenpannen (72 Stunden an den EDÖB) repetiert.
+*   **Experte Tag 3:** Erklärung der CIA-Triade (Vertraulichkeit, Integrität, Verfügbarkeit) und die Abgrenzung zwischen Datensicherheit (technisch) und Datenschutz (rechtlich). Zudem wurden Anonymisierungstools wie VPN und Tor besprochen.
+*   **Experte Tag 4**: Zusammenfassung digitaler Rechte, insbesondere Lizenzmodelle (Open Source vs. Creative Commons) sowie der Schutz vor Tracking-Methoden wie Fingerprinting und manipulativen Dark Patterns.
 
 ### Durchführung LB1
-Im Anschluss an die Repetition fand die **Theorieprüfung 1** statt. Diese dauerte 45 Minuten und wurde ohne elektronische Hilfsmittel durchgeführt.
+Im Anschluss an die Repetition fand die LB1 statt. Diese dauerte 45 Minuten und wurde ohne elektronische Hilfsmittel durchgeführt.
 
 ---
 ## Reflexion LB1
@@ -846,5 +800,21 @@ Bei Chrome waren zwei von fünf Punkten nicht ganz erfüllt, das hat mich etwas 
 Bei Instagram waren zwei von drei Punkten nicht erfüllt, das hat mich etwas überrascht, denn man muss alles manuell ausschalten um den best möglichen Schutz zu haben. Man konnte mich in Videos markieren und Direktnachrichten waren auch aktiv. Beides habe ich jetzt umgestellt, bei den Einstellungen sollte man also ab und zu nachschauen. 
 
 ---
+
+## Was wir gemacht haben
+*   **Audit-Prozess:** Wir haben uns mit der Arbeitsweise von Datenschutzbeauftragten beschäftigt und gelernt, wie Unternehmen ihre Sicherheitsmassnahmen planen und prüfen (Planung, Prüfung, Befunde, Massnahmen und Nachkontrolle).
+*   **Verschlüsselungsverfahren:** Wir haben historische Methoden wie die Caesar- und Vigenère-Chiffre kennengelernt.
+*   **Kryptoanalyse:** Wir haben die Häufigkeitsanalyse angewendet, um verschlüsselte Texte systematisch zu knacken.
+*   **KI-Werkstatt:** Eine KI hat uns Übungsaufgaben generiert, die wir anschliessend eigenständig ohne KI-Hilfe gelöst haben.
+
+## Was ich gelernt habe
+*   **Symmetrische Verschlüsselung:** Es wird derselbe Schlüssel zum Ver- und Entschlüsseln verwendet (Modell mit Alice und Bob).
+*   **Moderne Standards:** Während historische Verfahren heute unsicher sind, gilt AES als aktueller Goldstandard.
+*   **Häufigkeitsanalyse:** Man kann einfache Verschlüsselungen knacken, indem man die statistische Verteilung von Buchstaben (im Deutschen besonders das „E“ mit dem Merksatz ENISRAT) nutzt.
+*   **Schlüsselverteilungsproblem:** Die grosse Herausforderung ist der sichere Austausch des gemeinsamen Schlüssels ohne eine bereits bestehende sichere Verbindung.
+
+## Reflexion
+Der Tag hat mir Spass gemacht, vor allem das Knacken der Geheimtexte war spannend. Ich habe mir vorgenommen, im Unterricht künftig noch mehr zuzuhören.
+
 
 </details>
