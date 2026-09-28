@@ -819,7 +819,7 @@ Durch die Präsentationen der Mitschüler und den anschliessenden Selbsttest kon
    
    # Tag 6
    ---
-   In diesem Block habe ich zwei Checklisten basierend auf den Vorgaben von [datenschutz.ch](https://www.datenschutz.ch/) bearbeitet, um die Sicherheit und Privatsphäre meines Chrome-Browsers zu prüfen [1, 3].
+   In diesem Block habe ich zwei Checklisten basierend auf den Vorgaben von [datenschutz.ch](https://www.datenschutz.ch/) bearbeitet, um die Sicherheit und Privatsphäre meines Chrome-Browsers zu prüfen.
 
 ### Checkliste 1: Chrome Browser Sicherheit
 | # | Prüfpunkt | Einschätzung | Kommentar / Massnahme |
