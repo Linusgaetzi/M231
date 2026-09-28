@@ -799,12 +799,51 @@ Anstatt einer klassischen Frontal-Repetition haben wir eine Gruppenaufgabe durch
 Im Anschluss an die Repetition fand die **Theorieprüfung 1** statt. Diese dauerte 45 Minuten und wurde ohne elektronische Hilfsmittel durchgeführt.
 
 ---
+## Reflexion LB1
+* Die Prüfung hat sehr gut geklappt. Ich habe aber den Spick sehr oft benutzen müssen, da ich nicht so oft geübt habe.
 
 ## Was habe ich gelernt?
 Durch die Präsentationen der Mitschüler und den anschliessenden Selbsttest konnte ich mein Wissen in folgenden Punkten festigen:
 *   **MFA-Logik:** Dass zwei Passwörter kein echtes MFA sind, da sie beide zur selben Kategorie ("Wissen") gehören.
 *   **Besonders schützenswerte Daten:** Dass im revDSG Daten über Gesundheit, Religion oder Biometrie strengere Schutzanforderungen haben.
 *   **Fingerprinting:** Warum diese Methode so schwer zu blockieren ist – sie nutzt Merkmale, die der Browser ohnehin mitsendet, statt Daten lokal zu speichern wie Cookies.
+
+---
+
+</details>
+
+<details>
+   <summary>
+      Tag 6
+   </summary>
+   
+   # Tag 6
+   ---
+   In diesem Block habe ich zwei Checklisten basierend auf den Vorgaben von [datenschutz.ch](https://www.datenschutz.ch/) bearbeitet, um die Sicherheit und Privatsphäre meines Chrome-Browsers zu prüfen [1, 3].
+
+### Checkliste 1: Chrome Browser Sicherheit
+| # | Prüfpunkt | Einschätzung | Kommentar / Massnahme |
+|---|---|---|---|
+| 1 | Automatische Updates aktiviert | Erfüllt | Chrome ist auf dem neuesten Stand. Wichtig für Sicherheitsupdates. |
+| 2 | Safe Browsing (Standard-Schutz) aktiv | Erfüllt | Schutz vor gefährlichen Websites und Downloads ist eingeschaltet. |
+| 3 | Passwort-Check durchgeführt | Teilweise | Einige Passwörter sind gleich wie andere|
+| 4 | HTTPS-First-Modus aktiv | Nicht erfüllt | Einstellung war deaktiviert. Habe sie nun aktiviert. |
+| 5 | Berechtigungen (Kamera, Standort) prüfen | Teilweise | Viele Seiten hatten dauerhaften Zugriff. Zugriff auf "Bei jedem Besuch fragen" umgestellt. |
+
+**Reflexion zur Browser-Sicherheit:**
+Bei Chrome waren zwei von fünf Punkten nicht ganz erfüllt, das hat mich etwas überrascht, denn Chrome sollte man eigentlich vertrauen können als der bekannteste Browser. Viele Websites hatten dauerhaft Zugriff auf Kamera und Standort, und der HTTPS-First-Modus war ausgeschaltet. Beides habe ich jetzt umgestellt, nur die Passwörter ändere ich vorerst nicht, obwohl einige mehrfach verwendet werden. Bei den Einstellungen sollte man also ab und zu nachschauen.
+
+---
+
+### Checkliste 2: Privacy-Einstellungen (Instagram)
+| # | Prüfpunkt | Einschätzung | Kommentar / Massnahme |
+|---|---|---|---|
+| 1 | Nutzername | Erfüllt | Ich habe schon nur meinen Vornamen verwendet und nicht auch noch den Nachnamen|
+| 2 | Markieren in Videos| Nicht erfüllt | Jetzt schalte ich um, dass man mich nicht mehr markieren kann|
+| 3 | Direktnachrichten| Nicht erfüllt | War aktiv, aber habe es nun deaktiviert |
+
+**Reflexion zu den Privacy-Einstellungen Instagram:**
+Bei Instagram waren zwei von drei Punkten nicht erfüllt, das hat mich etwas überrascht, denn man muss alles manuell ausschalten um den best möglichen Schutz zu haben. Man konnte mich in Videos markieren und Direktnachrichten waren auch aktiv. Beides habe ich jetzt umgestellt, bei den Einstellungen sollte man also ab und zu nachschauen. 
 
 ---
 
