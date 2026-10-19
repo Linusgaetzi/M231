@@ -818,3 +818,61 @@ Der Tag hat mir Spass gemacht, vor allem das Knacken der Geheimtexte war spannen
 
 
 </details>
+<details>
+   <summary>
+      Tag 7
+   </summary>
+
+# Tag 7
+   
+# Verschlüsselungsverfahren
+
+## Symmetrische Verschlüsselung
+- Sender und Empfänger nutzen denselben geheimen Schlüssel zum Ver- und Entschlüsseln.
+- Bob verschlüsselt den Klartext, Alice entschlüsselt den Geheimtext mit dem gleichen Schlüssel.
+- **Vorteil:** schnell
+- **Nachteil:** Der Schlüssel muss vorher sicher ausgetauscht werden.
+- **Beispiele:** AES, DES
+
+## Asymmetrische Verschlüsselung (Public-Key-Verfahren)
+- Jede Person hat ein Schlüsselpaar: einen öffentlichen Schlüssel (Public Key) und einen privaten Schlüssel (Private Key).
+- Bob verschlüsselt mit Alices Public Key, nur Alice kann mit ihrem Private Key entschlüsseln.
+- **Vorteil:** kein geheimer Schlüsselaustausch nötig
+- **Nachteil:** langsamer
+- **Beispiele:** RSA, ECC
+
+## Grafik
+
+```mermaid
+flowchart LR
+    subgraph SYM["Symmetrisch"]
+        direction LR
+        B1(["Bob"]) --> P1["Klartext"]
+        P1 -->|"verschlüsseln<br/>gemeinsamer Schlüssel"| C1["Geheimtext"]
+        C1 -->|"entschlüsseln<br/>gleicher Schlüssel"| P2["Klartext"]
+        P2 --> A1(["Alice"])
+        M1(["Mallory"]) -.->|"sieht nur Geheimtext"| C1
+    end
+
+    subgraph ASYM["Asymmetrisch"]
+        direction LR
+        B2(["Bob"]) --> P3["Klartext"]
+        P3 -->|"verschlüsseln<br/>Public Key Alice"| C2["Geheimtext"]
+        C2 -->|"entschlüsseln<br/>Private Key Alice"| P4["Klartext"]
+        P4 --> A2(["Alice"])
+        M2(["Mallory"]) -.->|"kann ohne Private Key<br/>nicht entschlüsseln"| C2
+    end
+```
+
+---
+
+## Hashes
+
+Ich habe in Powershell den Code für den Hash eingegeben und dann kam der Hash zur datei heraus.
+<details>
+<summary>Hash Screenshot</summary>
+   <img width="2290" height="420" alt="image" src="https://github.com/user-attachments/assets/efabc1e5-8823-4278-b5be-7e455053644a" />
+
+</details>
+Beim abändern des Namens, der Datei, hat sich der Hash nicht geändert, weil man etwas in der Datei ändern müsste, aber leider ist es ein pdf.
+</details>
