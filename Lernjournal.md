@@ -2,13 +2,32 @@
 
 <details>
    <summary>
+      Handlungsziele (HZ) – Übersicht
+   </summary>
+
+| HZ | Kompetenz |
+|---|---|
+| 1.1–1.4 | Datenschutzgesetze (revDSG, DSGVO), Betroffenenrechte, DSFA |
+| 2.1 | Symmetrische und asymmetrische Verschlüsselung, PGP |
+| 2.2 | Backup-Konzepte (3-2-1-Regel, RAID) |
+| 2.3–2.4 | Authentifizierung & Autorisierung, MFA, Passwortmanager, Social Engineering |
+| 3.1 | Risiken bewerten, CIA-Prinzip |
+| 3.2 | Git im Team, Ransomware-Risiken |
+| 4.1 | Privacy-Threats, Dark Patterns, Ransomware-Abwehr |
+| 5.1–5.2 | Dateiablage, Checklisten, Passwortsicherheit |
+| 6.1 | Lizenzmodelle |
+
+</details>
+
+<details>
+   <summary>
       Tag 1  
    </summary>
 
 ## Tag 1
 ---
 ### Was habe ich heute gemacht?
-* **NotebookLM:** Wir haben uns das Tool NotebookLM angeschaut und wie man es benutzt.
+* **NotebookLM:** Wir haben uns das Tool NotebookLM angeschaut und gelernt, wie man es benutzt.
 * **Grundlagen Security:** Ich habe mir angeschaut, was MFA (Multi-Faktor-Authentifizierung) eigentlich ist und wo der Unterschied zwischen Authentifizierung und Autorisierung liegt.
 * **Transferaufgabe (Szenario kleine Firma):**
     * **MFA-Empfehlung:** Ich würde Passwort und Badge nehmen. Jeder hat eh einen PC (für das Passwort) und einen Badge kann man jedem einfach geben. Das erfüllt dann zwei der drei Anforderungen für MFA (Wissen und Besitz).
@@ -19,15 +38,18 @@
 ### Was habe ich heute gelernt?
 * **Der Unterschied:** Authentifizierung ist nur der Beweis, wer ich bin (Identität). Autorisierung bestimmt dann, was ich auf dem System eigentlich machen darf (Berechtigungen).
 * **MFA-Faktoren:** Für eine echte Multi-Faktor-Authentifizierung braucht man mindestens zwei von drei Dingen: Wissen (z. B. Passwort), Besitz (z. B. Badge) oder Biometrie (z. B. Fingerabdruck).
-* **Phishing:** Ich weiss jetzt, was der Unterschied zwischen normalem Phishing und Spearphishing (gezielte Angriffe) ist. Der Angriff auf Ubiquiti Networks im Jahr 2015. Da wurden Mitarbeiter so getäuscht, dass sie insgesamt 46,7 Millionen US-Dollar überwiesen haben.
+* **Phishing:** Ich weiss jetzt, was der Unterschied zwischen normalem Phishing und Spear-Phishing (gezielte Angriffe) ist. Ein Beispiel dafür ist der Angriff auf Ubiquiti Networks im Jahr 2015. Dabei wurden Mitarbeiter so getäuscht, dass sie insgesamt 46,7 Millionen US-Dollar überwiesen haben.
 ---
 ### Was hat gut funktioniert?
 * Die Arbeit mit NotebookLM hat gut funktioniert, da ich das Tool direkt kennenlernen und ausprobieren konnte.
 * Die Security-Grundlagen konnte ich gut nachvollziehen und auf das Szenario übertragen.
 * Durch das Phishing-Beispiel konnte ich besser verstehen, wie solche Angriffe in der Praxis funktionieren.
 ---
-### Was würde ich anders machen und was nehme ich mir fürs nächste mal vor?
-* Mehr Notizen während Unterricht machen und ich nehme mir fürs nächste mal vor alles mir gut zu merken, denn ich war heute etwas müde und deshalb konnte ich mich nicht zu 100% fokussieren.
+### Was würde ich anders machen und was nehme ich mir fürs nächste Mal vor?
+* Mehr Notizen während des Unterrichts machen. Ich nehme mir fürs nächste Mal vor, mir alles gut zu merken, denn ich war heute etwas müde und konnte mich deshalb nicht zu 100 % fokussieren.
+---
+### Bezug zu Handlungszielen
+* **HZ 2.3 / 2.4 – Authentifizierung, MFA, Social Engineering:** MFA-Transferaufgabe (Passwort + Badge), Least-Privilege-Prinzip, Phishing und Spear-Phishing (Ubiquiti-Fall)
 ---
 </details>
 
@@ -89,7 +111,7 @@ flowchart TD
 ```
 </details>
 
-* Gruppenpuzzle: Datenschutzrecht im Überblick,  Expertengruppe D
+* Gruppenpuzzle: Datenschutzrecht im Überblick, Expertengruppe D
 ---
 ### Was habe ich gelernt?
 
@@ -151,10 +173,13 @@ flowchart TD
 
 ---
 ### Was hat gut funktioniert?
-* Die Präsentationen über das Datenschutzrecht hat in unserer Gruppe sehr gut funktioniert. Allgemein dass schreiben hier ins Repo macht mir sehr Spass und man lernt dabei auch sehr viel.
+* Die Präsentationen über das Datenschutzrecht haben in unserer Gruppe sehr gut funktioniert. Allgemein macht mir das Schreiben hier im Repo sehr Spass, und man lernt dabei auch sehr viel.
 ---
-### Was würde ich anders machen und was nehme ich mir fürs nächste mal vor?
-* Ich würde eigentlich nichts anders machen ausser mich mehr in der Gruppe zu beteiligen. Ich nehme mir vor das Repo zuhause weiterzumachen. 
+### Was würde ich anders machen und was nehme ich mir fürs nächste Mal vor?
+* Ich würde eigentlich nichts anders machen, ausser mich mehr in der Gruppe zu beteiligen. Ich nehme mir vor, am Repo zuhause weiterzuarbeiten.
+---
+### Bezug zu Handlungszielen
+* **HZ 1.1–1.4 – Datenschutzgesetze und Betroffenenrechte:** Grundsätze des revDSG, besonders schützenswerte Daten, Rechte nach DSGVO, Vorgehen bei Datenpannen
 </details>
 
 <details>
@@ -302,7 +327,7 @@ Dieses Thema fand ich besonders interessant, weil ich dabei einen direkten Bezug
 
 Ich habe dadurch auch verstanden, warum es wichtig ist, seine eigenen Datenschutzrechte zu kennen.
 
-[Beispiels Brief](Auskunftsbegehren_BeispielsBrief.pdf)
+[Beispielbrief](Auskunftsbegehren_BeispielsBrief.pdf)
 
 
 ---
@@ -398,7 +423,7 @@ Deshalb sollte ich auch bei der Verwendung von Tor auf HTTPS achten.
 
 ## Grenzen der Online-Anonymität
 
-Ein wichtiger Punkt für mich waren die Grenzen der Anonymität
+Ein wichtiger Punkt für mich waren die Grenzen der Anonymität.
 
 Ich habe gelernt, dass vollständige Anonymität im Internet nur sehr schwer erreichbar ist.
 
@@ -470,11 +495,31 @@ Heute habe ich gemerkt, dass Informationssicherheit aus mehreren Bereichen beste
 
 Am Anfang dachte ich bei Datenschutz vor allem daran, dass persönliche Daten nicht weitergegeben werden dürfen. Durch den heutigen Unterricht habe ich aber verstanden, dass es viel mehr Aspekte gibt.
 
+Ich muss mich nicht nur fragen, wer auf Daten zugreifen darf, sondern auch:
+
+> Sind die Daten korrekt?
+
+> Sind sie verfügbar, wenn ich sie brauche?
+
+> Werden sie nur für den vorgesehenen Zweck verwendet?
+
+> Sind die Systeme ausreichend geschützt?
+
+> Welche Informationen gebe ich selbst im Internet preis?
+
+Diese Fragen helfen mir, das Thema umfassender zu betrachten.
+
 Besonders die Unterscheidung zwischen Datenschutz und Datensicherheit nehme ich aus dem heutigen Tag mit. Ich kann jetzt besser erkennen, dass Datenschutz stärker die Rechte und den Schutz von Personen betrifft, während Datensicherheit stärker auf den technischen und organisatorischen Schutz von Daten und Systemen ausgerichtet ist.
 
 ---
 
-</details>
+## Bezug zu Handlungszielen
+
+- **HZ 3.1 – Risiken bewerten, CIA-Prinzip:** CIA-Triade, Datenpannen und ihre Folgen, Szenarien Arztpraxis / Online-Shop / Schulverwaltung
+- **HZ 1.1–1.4 – Datenschutzgesetze und Betroffenenrechte:** Datenschutz vs. Datensicherheit, Auskunftsbegehren
+
+---
+
 </details>
 
 <details>
@@ -498,14 +543,14 @@ Heute habe ich mich mit folgenden Themen beschäftigt:
 flowchart TD     
    A[Lizenzen] --> B[Proprietär]     
    A --> C[Open Source]     
-   B --> B1[code geheim]     
-   B --> B2[braucht lizenz]     
-   B --> B3[z.b Windows]     
-   C --> C1[code offen]     
+   B --> B1[Code geheim]     
+   B --> B2[braucht Lizenz]     
+   B --> B3[z. B. Windows]     
+   C --> C1[Code offen]     
    C --> C2[meist gratis]     
-   C --> C3[z.b Linux]     
-   C --> D[GPL: änderung = teilen]     
-   D --> D1[MIT: fast keine regeln]
+   C --> C3[z. B. Linux]     
+   C --> D[GPL: Änderung = teilen]     
+   C --> D1[MIT: fast keine Regeln]
    ```
 
 </details>
@@ -540,7 +585,7 @@ Besonders wichtig fand ich:
 - Bei proprietärer Software ist der Quellcode normalerweise nicht öffentlich.
 - Bei Open-Source-Software ist der Quellcode zugänglich.
 - Die MIT-Lizenz erlaubt sehr viel Freiheit bei der Nutzung.
-- Die GPL-Lizenz verpflichtet dazu, veränderten Code ebenfalls unter GPL zu veröffentlichen.
+- Die GPL-Lizenz verpflichtet dazu, veränderten Code bei der Weitergabe ebenfalls unter GPL zu veröffentlichen.
 - Apache 2.0 bietet zusätzlich Schutz im Bereich von Patenten.
 - Creative Commons wird vor allem für Inhalte wie Bilder, Texte oder Videos verwendet.
 
@@ -717,12 +762,22 @@ Die wichtigsten Erkenntnisse des Tages sind für mich:
 5. KI kann bei Analysen helfen, muss aber immer kritisch überprüft werden.
 
 ---
+
+# Bezug zu Handlungszielen
+
+- **HZ 6.1 – Lizenzmodelle:** Urheberrecht, proprietäre und Open-Source-Lizenzen (MIT, Apache 2.0, GPL), Creative Commons
+- **HZ 4.1 – Privacy-Threats und Dark Patterns:** Cookies, Tracking, Browser-Fingerprinting, Dark Patterns
+
+---
 </details>
 
 <details>
    <summary>
       Tag 5
    </summary>
+
+# Tag 5
+---
 
 ## Was haben wir heute gemacht?
 Der Fokus des heutigen Tages lag ganz auf der Vorbereitung und Durchführung der ersten Prüfung LB1.
@@ -750,6 +805,12 @@ Durch die Präsentationen der Mitschüler und den anschliessenden Selbsttest kon
 
 ---
 
+## Bezug zu Handlungszielen
+*   **HZ 2.3 / 2.4 – Authentifizierung, MFA, Social Engineering:** Repetition MFA-Logik und Schutz vor Social Engineering
+*   **HZ 1.1–1.4 – Datenschutzgesetze:** Repetition revDSG / DSGVO, besonders schützenswerte Daten, Meldepflicht bei Datenpannen
+
+---
+
 </details>
 
 <details>
@@ -759,31 +820,31 @@ Durch die Präsentationen der Mitschüler und den anschliessenden Selbsttest kon
    
    # Tag 6
    ---
-   In diesem Block habe ich zwei Checklisten basierend auf den Vorgaben von [datenschutz.ch](https://www.datenschutz.ch/) bearbeitet, um die Sicherheit und Privatsphäre meines Chrome-Browsers zu prüfen.
+   In diesem Block habe ich zwei Checklisten basierend auf den Vorgaben von [datenschutz.ch](https://www.datenschutz.ch/) bearbeitet, um die Sicherheit und Privatsphäre meines Chrome-Browsers und meines Instagram-Kontos zu prüfen.
 
 ### Checkliste 1: Chrome Browser Sicherheit
 | # | Prüfpunkt | Einschätzung | Kommentar / Massnahme |
 |---|---|---|---|
 | 1 | Automatische Updates aktiviert | Erfüllt | Chrome ist auf dem neuesten Stand. Wichtig für Sicherheitsupdates. |
 | 2 | Safe Browsing (Standard-Schutz) aktiv | Erfüllt | Schutz vor gefährlichen Websites und Downloads ist eingeschaltet. |
-| 3 | Passwort-Check durchgeführt | Teilweise | Einige Passwörter sind gleich wie andere|
+| 3 | Passwort-Check durchgeführt | Teilweise | Einige Passwörter werden mehrfach verwendet. |
 | 4 | HTTPS-First-Modus aktiv | Nicht erfüllt | Einstellung war deaktiviert. Habe sie nun aktiviert. |
 | 5 | Berechtigungen (Kamera, Standort) prüfen | Teilweise | Viele Seiten hatten dauerhaften Zugriff. Zugriff auf "Bei jedem Besuch fragen" umgestellt. |
 
 **Reflexion zur Browser-Sicherheit:**
-Bei Chrome waren zwei von fünf Punkten nicht ganz erfüllt, das hat mich etwas überrascht, denn Chrome sollte man eigentlich vertrauen können als der bekannteste Browser. Viele Websites hatten dauerhaft Zugriff auf Kamera und Standort, und der HTTPS-First-Modus war ausgeschaltet. Beides habe ich jetzt umgestellt, nur die Passwörter ändere ich vorerst nicht, obwohl einige mehrfach verwendet werden. Bei den Einstellungen sollte man also ab und zu nachschauen.
+Bei Chrome waren drei von fünf Punkten nicht ganz erfüllt. Das hat mich etwas überrascht, denn dem bekanntesten Browser sollte man eigentlich vertrauen können. Viele Websites hatten dauerhaft Zugriff auf Kamera und Standort, und der HTTPS-First-Modus war ausgeschaltet. Beides habe ich jetzt umgestellt. Nur die Passwörter ändere ich vorerst nicht, obwohl einige mehrfach verwendet werden. Bei den Einstellungen sollte man also ab und zu nachschauen.
 
 ---
 
 ### Checkliste 2: Privacy-Einstellungen (Instagram)
 | # | Prüfpunkt | Einschätzung | Kommentar / Massnahme |
 |---|---|---|---|
-| 1 | Nutzername | Erfüllt | Ich habe schon nur meinen Vornamen verwendet und nicht auch noch den Nachnamen|
-| 2 | Markieren in Videos| Nicht erfüllt | Jetzt schalte ich um, dass man mich nicht mehr markieren kann|
-| 3 | Direktnachrichten| Nicht erfüllt | War aktiv, aber habe es nun deaktiviert |
+| 1 | Nutzername | Erfüllt | Ich habe schon nur meinen Vornamen verwendet und nicht auch noch den Nachnamen. |
+| 2 | Markieren in Videos | Nicht erfüllt | Ich habe es so umgestellt, dass man mich nicht mehr markieren kann. |
+| 3 | Direktnachrichten | Nicht erfüllt | War aktiv, habe es nun aber deaktiviert. |
 
 **Reflexion zu den Privacy-Einstellungen Instagram:**
-Bei Instagram waren zwei von drei Punkten nicht erfüllt, das hat mich etwas überrascht, denn man muss alles manuell ausschalten um den best möglichen Schutz zu haben. Man konnte mich in Videos markieren und Direktnachrichten waren auch aktiv. Beides habe ich jetzt umgestellt, bei den Einstellungen sollte man also ab und zu nachschauen. 
+Bei Instagram waren zwei von drei Punkten nicht erfüllt. Das hat mich etwas überrascht, denn man muss alles manuell ausschalten, um den bestmöglichen Schutz zu haben. Man konnte mich in Videos markieren, und Direktnachrichten waren auch aktiv. Beides habe ich jetzt umgestellt. Bei den Einstellungen sollte man also ab und zu nachschauen.
 
 ---
 
@@ -802,6 +863,11 @@ Bei Instagram waren zwei von drei Punkten nicht erfüllt, das hat mich etwas üb
 ## Reflexion
 Der Tag hat mir Spass gemacht, vor allem das Knacken der Geheimtexte war spannend. Ich habe mir vorgenommen, im Unterricht künftig noch mehr zuzuhören.
 
+---
+
+## Bezug zu Handlungszielen
+*   **HZ 5.1–5.2 – Checklisten:** Chrome- und Instagram-Einstellungen anhand der Checklisten von datenschutz.ch geprüft und verbessert
+*   **HZ 2.1 – Verschlüsselung:** symmetrische Verschlüsselung (Caesar, Vigenère, AES), Häufigkeitsanalyse, Schlüsselverteilungsproblem
 
 </details>
 <details>
@@ -854,11 +920,79 @@ flowchart LR
 
 ## Hashes
 
-Ich habe in Powershell den Code für den Hash eingegeben und dann kam der Hash zur datei heraus.
+Ich habe in PowerShell den Befehl für den Hash eingegeben, und dann wurde der Hash der Datei ausgegeben.
 <details>
 <summary>Hash Screenshot</summary>
    <img width="2290" height="420" alt="image" src="https://github.com/user-attachments/assets/efabc1e5-8823-4278-b5be-7e455053644a" />
 
 </details>
-Beim abändern des Namens, der Datei, hat sich der Hash nicht geändert, weil man etwas in der Datei ändern müsste, aber leider ist es ein pdf.
+Beim Abändern des Dateinamens hat sich der Hash nicht geändert, weil man dafür etwas am Inhalt der Datei ändern müsste. Das ging leider nicht, weil es ein PDF ist.
+
+---
+
+## Bezug zu Handlungszielen
+- **HZ 2.1 – Verschlüsselung:** symmetrische und asymmetrische Verschlüsselung (Public / Private Key)
+- **HZ 3.1 – CIA-Prinzip:** Hashes als Schutz der Integrität
+
+</details>
+
+<details>
+   <summary>
+      Tag 8
+   </summary>
+
+# Tag 8
+
+---
+
+## Themen des Tages
+- CIA-Prinzip vertieft
+- Risikomanagement und Risikoanalyse
+- PGP: Hybridverschlüsselung, Signaturen und Web of Trust
+
+---
+
+## Was habe ich gemacht?
+
+* Wir haben eine Risikoanalyse gemacht:
+<details>
+   <summary>Risikoanalysen</summary>
+<img width="3024" height="4032" alt="Image (1) (1)" src="https://github.com/user-attachments/assets/e84ea8e7-2ad5-4a0d-b35c-e16895e304a7" />
+<img width="3024" height="4032" alt="Image (2)" src="https://github.com/user-attachments/assets/dc6de1b5-2f49-4b5f-bdb5-f2a1db43ea4f" />
+</details>
+* Strategien: Vermeiden · Vermindern · Übertragen · Akzeptieren
+
+---
+
+## PGP
+
+### Warum verschlüsselt PGP die Nachricht symmetrisch und nur den Schlüssel asymmetrisch?
+
+
+### Was beweist eine Signatur, was beweist sie nicht?
+
+
+### Wo stünde mein Schlüssel im Web of Trust, und wem würde ich direkt vertrauen?
+
+
+---
+
+## Was habe ich gelernt?
+
+
+## Was hat gut funktioniert / was war schwierig?
+
+
+## Was würde ich anders machen?
+
+
+## Was nehme ich mir vor?
+
+
+---
+
+## Bezug zu Handlungszielen
+- **HZ 3.1 – Risiken bewerten, CIA-Prinzip:** Risikoanalyse mit Risikomatrix und Risikostrategien
+- **HZ 2.1 – Verschlüsselung, PGP:** Hybridverschlüsselung, digitale Signaturen, Web of Trust
+
 </details>
