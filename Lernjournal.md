@@ -470,20 +470,6 @@ Heute habe ich gemerkt, dass Informationssicherheit aus mehreren Bereichen beste
 
 Am Anfang dachte ich bei Datenschutz vor allem daran, dass persönliche Daten nicht weitergegeben werden dürfen. Durch den heutigen Unterricht habe ich aber verstanden, dass es viel mehr Aspekte gibt.
 
-Ich muss mich nicht nur fragen, wer auf Daten zugreifen darf, sondern auch:
-
-> Sind die Daten korrekt?
-
-> Sind sie verfügbar, wenn ich sie brauche?
-
-> Werden sie nur für den vorgesehenen Zweck verwendet?
-
-> Sind die Systeme ausreichend geschützt?
-
-> Welche Informationen gebe ich selbst im Internet preis?
-
-Diese Fragen helfen mir, das Thema umfassender zu betrachten.
-
 Besonders die Unterscheidung zwischen Datenschutz und Datensicherheit nehme ich aus dem heutigen Tag mit. Ich kann jetzt besser erkennen, dass Datenschutz stärker die Rechte und den Schutz von Personen betrifft, während Datensicherheit stärker auf den technischen und organisatorischen Schutz von Daten und Systemen ausgerichtet ist.
 
 ---
