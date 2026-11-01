@@ -91,7 +91,7 @@ Direkt vertrauen würde ich nur Leuten, die ich persönlich kenne und bei denen 
 * Ich würde mir bei der Risikoanalyse mehr Zeit für die Begründungen nehmen, also warum ein Risiko hoch oder tief ist.
 
 ## Was nehme ich mir vor?
-* Ich nehme mir vor, PGP selbst auszuprobieren und die verschlüsselte E-Mail an die Lehrperson sauber fertig zu machen.
+* Ich nehme mir vor, PGP selbst auszuprobieren.
 
 ---
 
