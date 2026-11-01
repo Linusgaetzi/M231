@@ -21,8 +21,8 @@
 <img width="3024" height="4032" alt="Image (2)" src="https://github.com/user-attachments/assets/dc6de1b5-2f49-4b5f-bdb5-f2a1db43ea4f" />
 </details>
 
-* Strategien: Vermeiden · Vermindern · Übertragen · Akzeptieren
-* Zum Schluss haben wir angeschaut, wie PGP funktioniert.
+
+* Zum Schluss haben wir angeschaut, wie PGP funktioniert und ich habe mit GPG ein Schlüsselpaar erstellt und eine verschlüsselte E-Mail an Herr Gassmann geschickt.
 
 ---
 
@@ -91,7 +91,7 @@ Direkt vertrauen würde ich nur Leuten, die ich persönlich kenne und bei denen 
 * Ich würde mir bei der Risikoanalyse mehr Zeit für die Begründungen nehmen, also warum ein Risiko hoch oder tief ist.
 
 ## Was nehme ich mir vor?
-* Ich nehme mir vor, PGP selbst auszuprobieren.
+* Ich nehme mir vor, PGP selbst zuhause auszuprobieren.
 
 ---
 
