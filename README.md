@@ -31,6 +31,16 @@ Das zentrale Thema dieses Journals ist die Verknüpfung von **rechtlichen Datens
 2.  **Informationssicherheit:** 
     Die praktische Umsetzung der **CIA-Triade** (Vertraulichkeit, Integrität, Verfügbarkeit). Dies umfasst technisches Identitätsmanagement durch **MFA**, den Schutz vor Social Engineering sowie die Wahl korrekter Lizenzmodelle (z. B. Creative Commons).
 
+### Die Tage im Überblick
+*   **[Tag 1](Tage/Tag-1.md):** Unterschied zwischen Authentifizierung und Autorisierung, MFA, Least Privilege und Phishing am Beispiel Ubiquiti.
+*   **[Tag 2](Tage/Tag-2.md):** Git und Markdown, Grundsätze vom revDSG, Rechte nach DSGVO und was man bei einer Datenpanne macht.
+*   **[Tag 3](Tage/Tag-3.md):** CIA-Triade, Datenschutz vs. Datensicherheit, Auskunftsbegehren, VPN und Tor, KI-Antworten mit offiziellen Quellen prüfen.
+*   **[Tag 4](Tage/Tag-4.md):** Lizenzmodelle und Creative Commons, Cookies und Browser-Fingerprinting, Dark Patterns.
+*   **[Tag 5](Tage/Tag-5.md):** Repetition mit Themen-Experten und Prüfung LB1.
+*   **[Tag 6](Tage/Tag-6.md):** Chrome und Instagram mit Checklisten geprüft, Caesar- und Vigenère-Chiffre, Häufigkeitsanalyse.
+*   **[Tag 7](Tage/Tag-7.md):** Symmetrische und asymmetrische Verschlüsselung, Hashes in PowerShell.
+*   **[Tag 8](Tage/Tag-8.md):** Risikoanalyse mit Risikomatrix und Strategien, CIA vertieft, PGP mit Hybridverschlüsselung, Signaturen und Web of Trust.
+
 ### Was ich im Journal gemacht habe
 In diesem Journal habe ich meinen Lernfortschritt der Kurstage 1–8 dokumentiert:
 
