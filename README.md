@@ -7,16 +7,16 @@
 ## Inhaltsverzeichnis
 | Tag | Themen | Handlungsziele (HZ) |
 |---|---|---|
-| [Tag 1](Lernjournal.md#tag-1) | Authentifizierung & Autorisierung, MFA, Phishing (Ubiquiti-Fall) | 2.3 / 2.4 |
-| [Tag 2](Lernjournal.md#tag-2) | Git & Markdown, revDSG / DSGVO, Datenpannen | 1.1–1.4 |
-| [Tag 3](Lernjournal.md#tag-3) | CIA-Triade, Datenschutz vs. Datensicherheit, Auskunftsbegehren, VPN/Tor, KI-Faktencheck | 3.1, 1.1–1.4 |
-| [Tag 4](Lernjournal.md#tag-4) | Lizenzmodelle & Creative Commons, Cookies/Fingerprinting, Dark Patterns | 6.1, 4.1 |
-| [Tag 5](Lernjournal.md#tag-5) | Experten-Repetition, LB1 | 1.1–1.4, 2.3 / 2.4 |
-| [Tag 6](Lernjournal.md#tag-6) | Checklisten Chrome & Instagram, symmetrische Verschlüsselung, Häufigkeitsanalyse | 5.1–5.2, 2.1 |
-| [Tag 7](Lernjournal.md#tag-7) | Asymmetrische Verschlüsselung, Hashes | 2.1, 3.1 |
-| [Tag 8](Lernjournal.md#tag-8) | Risikoanalyse, CIA-Prinzip, PGP (Hybridverschlüsselung, Signaturen, Web of Trust) | 3.1, 2.1 |
+| [Tag 1](Tage/Tag-1.md) | Authentifizierung & Autorisierung, MFA, Phishing (Ubiquiti-Fall) | 2.3 / 2.4 |
+| [Tag 2](Tage/Tag-2.md) | Git & Markdown, revDSG / DSGVO, Datenpannen | 1.1–1.4 |
+| [Tag 3](Tage/Tag-3.md) | CIA-Triade, Datenschutz vs. Datensicherheit, Auskunftsbegehren, VPN/Tor, KI-Faktencheck | 3.1, 1.1–1.4 |
+| [Tag 4](Tage/Tag-4.md) | Lizenzmodelle & Creative Commons, Cookies/Fingerprinting, Dark Patterns | 6.1, 4.1 |
+| [Tag 5](Tage/Tag-5.md) | Experten-Repetition, LB1 | 1.1–1.4, 2.3 / 2.4 |
+| [Tag 6](Tage/Tag-6.md) | Checklisten Chrome & Instagram, symmetrische Verschlüsselung, Häufigkeitsanalyse | 5.1–5.2, 2.1 |
+| [Tag 7](Tage/Tag-7.md) | Asymmetrische Verschlüsselung, Hashes | 2.1, 3.1 |
+| [Tag 8](Tage/Tag-8.md) | Risikoanalyse, CIA-Prinzip, PGP (Hybridverschlüsselung, Signaturen, Web of Trust) | 3.1, 2.1 |
 
-Weitere Dateien: [Auskunftsbegehren (Beispielbrief)](Auskunftsbegehren_BeispielsBrief.pdf)
+Weitere Dateien: [Lernjournal-Übersicht mit Handlungszielen](Lernjournal.md) · [Auskunftsbegehren (Beispielbrief)](Auskunftsbegehren_BeispielsBrief.pdf)
 
 ---
 
