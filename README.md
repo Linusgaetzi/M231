@@ -29,17 +29,7 @@ Das zentrale Thema dieses Journals ist die Verknüpfung von **rechtlichen Datens
     Die gesetzeskonforme Bearbeitung von Personendaten gemäss dem schweizerischen **revDSG** und der europäischen **DSGVO**. Hierbei steht der Schutz der Persönlichkeitsrechte durch Grundsätze wie Verhältnismässigkeit und Zweckbindung im Vordergrund.
 
 2.  **Informationssicherheit:** 
-    Die praktische Umsetzung der **CIA-Triade** (Vertraulichkeit, Integrität, Verfügbarkeit). Dies umfasst technisches Identitätsmanagement durch **MFA**, den Schutz vor Social Engineering sowie die Wahl korrekter Lizenzmodelle (z. B. Creative Commons).
-
-### Die Tage im Überblick
-*   **[Tag 1](Tage/Tag-1.md):** Unterschied zwischen Authentifizierung und Autorisierung, MFA, Least Privilege und Phishing am Beispiel Ubiquiti.
-*   **[Tag 2](Tage/Tag-2.md):** Git und Markdown, Grundsätze vom revDSG, Rechte nach DSGVO und was man bei einer Datenpanne macht.
-*   **[Tag 3](Tage/Tag-3.md):** CIA-Triade, Datenschutz vs. Datensicherheit, Auskunftsbegehren, VPN und Tor, KI-Antworten mit offiziellen Quellen prüfen.
-*   **[Tag 4](Tage/Tag-4.md):** Lizenzmodelle und Creative Commons, Cookies und Browser-Fingerprinting, Dark Patterns.
-*   **[Tag 5](Tage/Tag-5.md):** Repetition mit Themen-Experten und Prüfung LB1.
-*   **[Tag 6](Tage/Tag-6.md):** Chrome und Instagram mit Checklisten geprüft, Caesar- und Vigenère-Chiffre, Häufigkeitsanalyse.
-*   **[Tag 7](Tage/Tag-7.md):** Symmetrische und asymmetrische Verschlüsselung, Hashes in PowerShell.
-*   **[Tag 8](Tage/Tag-8.md):** Risikoanalyse mit Risikomatrix und Strategien, CIA vertieft, PGP mit Hybridverschlüsselung, Signaturen und Web of Trust.
+    Die praktische Umsetzung der **CIA-Triade** (Vertraulichkeit, Integrität, Verfügbarkeit). Dies umfasst technisches Identitätsmanagement durch **MFA**, den Schutz vor Social Engineering sowie die Wahl korrekter Lizenzmodelle (z. B. Creative Commons). Dazu kommen Verschlüsselung, Hashes und das Bewerten von Risiken mit einer Risikoanalyse.
 
 ### Was ich im Journal gemacht habe
 In diesem Journal habe ich meinen Lernfortschritt der Kurstage 1–8 dokumentiert:
@@ -47,6 +37,7 @@ In diesem Journal habe ich meinen Lernfortschritt der Kurstage 1–8 dokumentier
 *   **Dokumentation:** Ich habe ein persönliches Portfolio in einem **Git-Repository** aufgebaut und die Inhalte mittels **Markdown** strukturiert.
 *   **Wissenssicherung:** Ich habe Kernkonzepte zu Identitätsmanagement (MFA), Datenschutzrecht, Online-Anonymität und Lizenzmodellen zusammengefasst.
 *   **Selbstprüfung mit Checklisten:** Ich habe meinen Chrome-Browser und meine Instagram-Einstellungen anhand von Checklisten (datenschutz.ch) geprüft und angepasst.
-*   **Verschlüsselung & Hashes:** Ich habe symmetrische (Caesar, Vigenère, AES) und asymmetrische Verschlüsselung (RSA, ECC), die Häufigkeitsanalyse und Hashwerte in PowerShell behandelt.
+*   **Verschlüsselung & Hashes:** Ich habe symmetrische (Caesar, Vigenère, AES) und asymmetrische Verschlüsselung (RSA, ECC), die Häufigkeitsanalyse und Hashwerte in PowerShell behandelt. Ausserdem habe ich gelernt, wie **PGP** mit Hybridverschlüsselung, Signaturen und dem Web of Trust funktioniert.
+*   **Risikoanalyse:** Ich habe Risiken nach Eintrittswahrscheinlichkeit und Schadensausmass bewertet, in eine Risikomatrix eingetragen und passende Strategien gewählt (vermeiden, vermindern, übertragen, akzeptieren).
 *   **Reflexion:** Ich habe regelmässige Reflexionen über mein Verständnis und meine Arbeitsweise verfasst, was ein zentraler Bestandteil der Leistungsbeurteilung (LB3) ist.
 *   **Prüfungsvorbereitung:** Das Journal diente als wesentliche Grundlage für die Vorbereitung auf die Theorieprüfung (LB1).
