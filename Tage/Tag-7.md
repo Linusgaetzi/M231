@@ -55,10 +55,6 @@ Ich habe in PowerShell den Befehl für den Hash eingegeben, und dann wurde der H
 </details>
 Beim Abändern des Dateinamens hat sich der Hash nicht geändert, weil man dafür etwas am Inhalt der Datei ändern müsste. Das ging leider nicht, weil es ein PDF ist.
 
-### Was ist ein Hash?
-
-Ein Hash ist wie ein Fingerabdruck von einer Datei. Aus dem Inhalt wird eine Zeichenkette mit immer gleicher Länge berechnet. Gleicher Inhalt gibt immer den gleichen Hash. Schon eine kleine Änderung gibt einen komplett anderen Hash. Vom Hash kann man aber nicht auf den Inhalt zurückrechnen. Darum kann man mit Hashes prüfen, ob eine Datei verändert wurde (Integrität).
-
 ---
 
 ## Bezug zu Handlungszielen
