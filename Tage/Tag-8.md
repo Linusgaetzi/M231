@@ -19,6 +19,7 @@
 <img width="3024" height="4032" alt="Image (1) (1)" src="https://github.com/user-attachments/assets/e84ea8e7-2ad5-4a0d-b35c-e16895e304a7" />
 <img width="3024" height="4032" alt="Image (2)" src="https://github.com/user-attachments/assets/dc6de1b5-2f49-4b5f-bdb5-f2a1db43ea4f" />
 </details>
+
 * Strategien: Vermeiden · Vermindern · Übertragen · Akzeptieren
 
 ---
