@@ -1,4 +1,4 @@
-# Aufgabe 9 – Lizenzmodell für mein Repository
+Lizenzmodell für mein Repository
 
 [Übersicht](../README.md)
 
@@ -12,10 +12,10 @@
 
 | Kürzel | Bedeutung | Gilt für mein Journal? |
 |---|---|---|
-| **BY** | Namensnennung | ✅ Ja, mein Name muss genannt werden |
-| **NC** | Keine kommerzielle Nutzung | ❌ Nein |
-| **ND** | Keine Bearbeitung | ❌ Nein |
-| **SA** | Weitergabe unter gleichen Bedingungen | ❌ Nein |
+| **BY** | Namensnennung | Ja, mein Name muss genannt werden |
+| **NC** | Keine kommerzielle Nutzung | Nein |
+| **ND** | Keine Bearbeitung | Nein |
+| **SA** | Weitergabe unter gleichen Bedingungen | Nein |
 
 ---
 
