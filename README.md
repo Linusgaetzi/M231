@@ -16,7 +16,14 @@
 | [Tag 7](Tage/Tag-7.md) | Asymmetrische Verschlüsselung, Hashes | 2.1, 3.1 |
 | [Tag 8](Tage/Tag-8.md) | Risikoanalyse, CIA-Prinzip, PGP (Hybridverschlüsselung, Signaturen, Web of Trust) | 3.1, 2.1 |
 
-Weitere Dateien: [Lernjournal-Übersicht mit Handlungszielen](Lernjournal.md) · [Auskunftsbegehren (Beispielbrief)](Auskunftsbegehren_BeispielsBrief.pdf)
+## LB3-Aufgaben
+| Aufgabe | Thema | Handlungsziele (HZ) |
+|---|---|---|
+| [Aufgabe 2 & 3](Aufgaben/02-Passwortmanager.md) | Passwortmanager: Vergleich, Begründung, Installation (KeePassXC) | 2.3 / 2.4, 5.2 |
+| [Aufgabe 9](Aufgaben/09-Lizenz.md) | Lizenzmodell für mein Repository (CC BY 4.0) | 6.1 |
+| [Aufgabe 10](Aufgaben/10-Symmetrische-Verschluesselung.md) | Symmetrische Verschlüsselung in der Praxis (Word, AES-256) | 2.1 |
+
+Weitere Dateien: [Lernjournal-Übersicht mit Handlungszielen](Lernjournal.md) · [Auskunftsbegehren (Beispielbrief)](Auskunftsbegehren_BeispielsBrief.pdf) · [Lizenz (CC BY 4.0)](LICENSE.md)
 
 ---
 
