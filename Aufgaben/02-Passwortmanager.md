@@ -4,9 +4,6 @@
 
 ---
 
-> **Auftrag (LB3, Kriterium 2):** Mindestens 2 Passwortmanager vergleichen, eine Entscheidung treffen und in mind. 5 Sätzen begründen.
-> **Auftrag (LB3, Kriterium 3):** Den gewählten Passwortmanager installieren und der Lehrperson die grundlegende Nutzung zeigen.
-
 ## Vergleich
 
 | Kriterium | KeePassXC | Bitwarden | 1Password |
