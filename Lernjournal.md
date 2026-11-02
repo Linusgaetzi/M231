@@ -18,16 +18,13 @@ Das Lernjournal ist nach Kurstagen aufgeteilt. Jeder Tag hat eine eigene Datei i
       Handlungsziele (HZ) – Übersicht
    </summary>
 
-| HZ | Kompetenz |
-|---|---|
-| 1.1–1.4 | Datenschutzgesetze (revDSG, DSGVO), Betroffenenrechte, DSFA |
-| 2.1 | Symmetrische und asymmetrische Verschlüsselung, PGP |
-| 2.2 | Backup-Konzepte (3-2-1-Regel, RAID) |
-| 2.3–2.4 | Authentifizierung & Autorisierung, MFA, Passwortmanager, Social Engineering |
-| 3.1 | Risiken bewerten, CIA-Prinzip |
-| 3.2 | Git im Team, Ransomware-Risiken |
-| 4.1 | Privacy-Threats, Dark Patterns, Ransomware-Abwehr |
-| 5.1–5.2 | Dateiablage, Checklisten, Passwortsicherheit |
-| 6.1 | Lizenzmodelle |
+| HZ | Handlungsziel | Themen in meinem Journal |
+|---|---|---|
+| 1 | Kategorisiert Daten aufgrund ihres Schutzbedarfs. | 1.1–1.4: revDSG, DSGVO, besonders schützenswerte Daten, Betroffenenrechte |
+| 2 | Überprüft und verbessert gegebenenfalls die Datensicherheit der eigenen Infrastruktur. | 2.1 Verschlüsselung, PGP · 2.2 Backup · 2.3–2.4 MFA, Passwortmanager, Social Engineering |
+| 3 | Setzt verschiedene Möglichkeiten der Datenspeicherung ein. | 3.1 Risiken bewerten, CIA-Prinzip · 3.2 Git im Team |
+| 4 | Überprüft eingesetzte Anwendungen auf Einhaltung der Datenschutzgesetze. | 4.1 Privacy-Threats, Dark Patterns |
+| 5 | Zeigt Konsequenzen von Fehlern im Datenschutz und bei der Datensicherheit auf. | 5.1–5.2 Dateiablage, Checklisten, Passwortsicherheit |
+| 6 | Wählt Software für die Einhaltung von Datenschutz und Datensicherheit aufgrund der Lizenzmodelle aus. | 6.1 Lizenzmodelle |
 
 </details>
