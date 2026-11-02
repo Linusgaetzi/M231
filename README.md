@@ -1,10 +1,4 @@
-# M231 – Lernportfolio Linus Gätzi
-
-**Name:** Linus Gätzi  
-**Modul:** M231 – Datenschutz und Datensicherheit anwenden (TBZ)  
-**Inhalt:** Persönliches Lernportfolio (LB3) mit Lernjournal, Datenschutz-Checklisten und Auskunftsbegehren.
-
-## Inhaltsverzeichnis
+# Inhaltsverzeichnis
 | Tag | Themen | Handlungsziele (HZ) |
 |---|---|---|
 | [Tag 1](Tage/Tag-1.md) | Authentifizierung & Autorisierung, MFA, Phishing (Ubiquiti-Fall) | 2.3 / 2.4 |
