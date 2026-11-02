@@ -1,4 +1,4 @@
-# Aufgabe 10 – Symmetrische Verschlüsselung in der Praxis
+Symmetrische Verschlüsselung in der Praxis
 
 [Übersicht](../README.md)
 
