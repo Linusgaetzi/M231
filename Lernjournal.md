@@ -1,4 +1,4 @@
-# Lernjournal
+# Lernjournal und Handlungsziele
 
 Das Lernjournal ist nach Kurstagen aufgeteilt. Jeder Tag hat eine eigene Datei im Ordner [`Tage`](Tage/).
 
