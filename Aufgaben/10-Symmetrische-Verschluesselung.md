@@ -4,8 +4,6 @@
 
 ---
 
-> **Auftrag (LB3, Kriterium 10):** Eine eigene Datei mit einem symmetrischen Verschlüsselungswerkzeug verschlüsseln und dokumentieren: Tool, Vorgehen (ohne Passwort) und Reflexion.
-
 ## Verwendetes Tool
 
 | | |
