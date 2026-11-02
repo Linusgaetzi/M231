@@ -1,4 +1,4 @@
-# Aufgabe 2 & 3 – Passwortmanager
+Passwortmanager
 
 [Übersicht](../README.md)
 
